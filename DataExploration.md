@@ -1,8 +1,5 @@
 # Data Exploration
 
-## Overview
-This is an assignment to explore the Heartland Family Services data using R for ISQA 8600 - From Data To Decision course. 
-
 ## Table Of Contents
 * [Scatter Plots](#scatter-plots)
 * [Facet Grid](#facet-grid)
