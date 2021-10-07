@@ -35,7 +35,7 @@ ggplot(hfsData, aes(gender, gender_identity)) +
   geom_point()
 ```
 
-**_Observation:_** I plotted this understand if there are any data anomolies with the columns 'gender' and 'gender_identity'. It was interesting to note that some data records with had gender = Female had gender_identity = Male and vice-verse. I think this information will be useful for data cleaning. 
+**_Observation:_** I plotted this understand if there are any data anomolies with the columns 'gender' and 'gender_identity'. It was interesting to note that some data records which had gender = Female had gender_identity = Male and vice-verse. I think this information will be useful for data cleaning. 
 
 #### Scatter Plot 2 : Average total time spent by each job title
 
@@ -100,7 +100,7 @@ ggplot(hfsData, aes(program_name, age)) +
   geom_point()
 ```
 
-**_Observation:_** I hope this plot will help our team with one of our research question where we wanted to find the demographics of the programs based on age, race and gender. So this plot already helps us understand the averages of clients being enrolled into the program. 
+**_Observation:_** I hope this plot will help our team with one of our research question where we wanted to find the demographics of the HFS programs based on age, race and gender. So this plot already helps us understand the averages of clients being enrolled into the program. 
 
 
 ## Facet Grid
